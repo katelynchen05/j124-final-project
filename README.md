@@ -11,4 +11,4 @@ While Kaggle is the hosting platform, the data originally comes from the NYC Ope
 [Google Sheets](https://docs.google.com/spreadsheets/d/1cfzXrNzI_6SlZYy_uSdleGT2Yw8QC1hdAapSgwwKPrE/edit?usp=sharing)
 ## Analysis
 Looking at the table, I created two pivot tables. One gathered the number of calls per zip code and the other gathered the complaints per borough. In order to visualize the data better, I made two bar charts. 
-![Top 10 Zips with the Most Calls in 2016](/j124-final-project/README.md/Top 10 Zips with the Most Calls in 2016.png)
+![Top 10 Zips with the Most Calls in 2016](Top 10 Zips with the Most Calls in 2016.png)
