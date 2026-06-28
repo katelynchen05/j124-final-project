@@ -12,4 +12,4 @@ While Kaggle is the hosting platform, the data originally comes from the NYC Ope
 ## Analysis
 Looking at the table, I created two pivot tables. One gathered the number of calls per zip code and the other gathered the complaints per borough. In order to visualize the data better, I made two bar charts. 
 
-![Top 10 Zips](/top-10-zips.png)
+![Top 10 Zips](top-10-zips)
