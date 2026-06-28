@@ -16,7 +16,7 @@ Looking at the table, I created two pivot tables. One gathered the number of cal
 
 In the first chart, data shows that Manhattan has by far the highest number of complaints at approximately 39000. That's around 40% more than Brooklyn and over ten times Staten. This data might suggest that nightlife activity and the resulting noise complaints were much more concentrated in Manhattan in New York.
 
-The ZIP code chart shows the top 10 cities with complaints shows that there is far from an even distribution. After the top few ZIPs, the complaint totals decline noticeably. This might suggest that there are really a few neighborhoods that have a disproportionate large share of complaints. Looking at the ZIP codes 10009, 10002, 10034, 10014, 11103, and 10003, many belong to Manhattan which aligns with what the borough chart shows. 
+The second chart (describing the number of calls in each ZIP code area) shows that there is far from an even distribution. After the top few ZIPs, the complaint totals decline noticeably. This might suggest that there are really a few neighborhoods that have a disproportionate large share of complaints. Looking at the ZIP codes 10009, 10002, 10034, 10014, 11103, and 10003, many belong to Manhattan which aligns with what the borough chart shows. 
 
 ## Summary/Ethical Concerns
 
