@@ -2,7 +2,7 @@
 
 In the year of 2026, it's the year of nostalgia for the aesthetic of the 2016 era-- from fashion to music to nightlife. Known for its wild night life, New York bars and restaurants often held late-night parties. Though the party scene of New York created some defining moments of pop culture, behind it are also the voices of nearby residents in annoyance. 
 
-[Dataset](https://www.kaggle.com/datasets/somesnm/partynyc)
+[Dataset](https://www.kaggle.com/datasets/somesnm/partynyc) 
 
 ## Source and Potential Challenges
 Today, we look at this dataset from Kaggle. The dataset here gives us a look at how late into the night parties were called for noise complaints and which areas of New York were most frequently called on. 
