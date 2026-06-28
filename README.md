@@ -12,7 +12,7 @@ While Kaggle is the hosting platform, the data originally comes from the NYC Ope
 ## Analysis
 Looking at the table, I created two pivot tables. One gathered the number of calls per zip code and the other gathered the complaints per borough. In order to visualize the data better, I made two bar charts. 
 [Google Sheets Pivot Tables](https://docs.google.com/spreadsheets/d/1cfzXrNzI_6SlZYy_uSdleGT2Yw8QC1hdAapSgwwKPrE/edit?usp=sharing)
-![Top 10 Zips](top-10-zip) ![Borough Complaints](borough-complaints)
+![Top 10 Zips](top-10-zip) ![Borough Complaints](borough-complaint)
 
 In the first chart, data shows that Manhattan has by far the highest number of complaints at approximately 39000. That's around 40% more than Brooklyn and over ten times Staten. This data might suggest that nightlife activity and the resulting noise complaints were much more concentrated in Manhattan in New York.
 
