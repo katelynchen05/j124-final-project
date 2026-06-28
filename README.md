@@ -13,5 +13,7 @@ Looking at the table, I created two pivot tables. One gathered the number of cal
 [Google Sheets Pivot Tables](https://docs.google.com/spreadsheets/d/1cfzXrNzI_6SlZYy_uSdleGT2Yw8QC1hdAapSgwwKPrE/edit?usp=sharing)
 ![Top 10 Zips](top-10-zips) ![Borough Complaints](borough-complaints)
 
+In the first chart, data shows that Manhattan has by far the highest number of complaints at approximately 39000. That's around 40% more than Brooklyn and over ten times Staten. This data might suggest that nightlife activity and the resulting noise complaints were much more concentrated in Manhattan in New York.
 
+Another thing 
 
